@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="transpose of same size matrix, that is transpose of square matrx">
-      <change afterPath="$PROJECT_DIR$/src/Array_Example/TransposeOFRectangle.java" afterDir="false" />
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="transpose of Rectangle matrix,">
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/RevereMetricsRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/RotateMetrixBy90.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TransposeOFRectangle">
+  <component name="RunManager" selected="Application.RotateMetrixBy90">
     <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_Example.MatrixTranspose" />
       <module name="FirstJavaProgram" />
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintMetrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.PrintMetrix" />
+    <configuration name="RevereMetricsRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.RevereMetricsRow" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -68,9 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleInterest" />
+    <configuration name="RotateMetrixBy90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.RotateMetrixBy90" />
       <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateMetrixBy90" />
+        <item itemvalue="Application.RevereMetricsRow" />
         <item itemvalue="Application.TransposeOFRectangle" />
         <item itemvalue="Application.MatrixTranspose" />
         <item itemvalue="Application.WaveMetrixArray" />
-        <item itemvalue="Application.PrintMetrix" />
-        <item itemvalue="Application.SimpleInterest" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709881056536</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="transpose of Rectangle matrix,">
+      <created>1709882328188</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709882328188</updated>
+    </task>
+    <task id="LOCAL-00011" summary="transpose of Rectangle matrix,">
+      <created>1709882341415</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709882341415</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +227,7 @@
     <MESSAGE value="Max of 2D Array after taking input" />
     <MESSAGE value="Print 2D array in wave form" />
     <MESSAGE value="transpose of same size matrix, that is transpose of square matrx" />
-    <option name="LAST_COMMIT_MESSAGE" value="transpose of same size matrix, that is transpose of square matrx" />
+    <MESSAGE value="transpose of Rectangle matrix," />
+    <option name="LAST_COMMIT_MESSAGE" value="transpose of Rectangle matrix," />
   </component>
 </project>
