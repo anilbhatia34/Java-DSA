@@ -25,7 +25,7 @@ public class WaveMetrixArray {
                     System.out.print(" " + mat[i][j]);
                 }
             }
-            System.out.println();
+            System.out.print("");
         }
 //    2 4 5 6     00 01 02 03
 //    7 8 9 8     10 11 12 13
