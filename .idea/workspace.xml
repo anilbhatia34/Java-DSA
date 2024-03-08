@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="First program created">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="transpose of same size matrix, that is transpose of square matrx">
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/TransposeOFRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +35,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.TransposeOFRectangle">
+    <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.MatrixTranspose" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintMetrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.PrintMetrix" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleInterest" />
+      <module name="FirstJavaProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeOFRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.TransposeOFRectangle" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaveMetrixArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.WaveMetrixArray" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransposeOFRectangle" />
+        <item itemvalue="Application.MatrixTranspose" />
+        <item itemvalue="Application.WaveMetrixArray" />
+        <item itemvalue="Application.PrintMetrix" />
+        <item itemvalue="Application.SimpleInterest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +127,63 @@
       <option name="project" value="LOCAL" />
       <updated>1709625773954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First program created">
+      <created>1709627424496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709627424496</updated>
+    </task>
+    <task id="LOCAL-00003" summary="How to take input in java">
+      <created>1709794702837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709794702837</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changes">
+      <created>1709794922362</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709794922362</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create program to add two number. number taken from input's">
+      <created>1709795338584</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709795338584</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Calculate simple Interest Rate">
+      <created>1709796145767</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709796145767</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Max of 2D Array after taking input">
+      <created>1709801822991</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709801822991</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Print 2D array in wave form">
+      <created>1709822162789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709822162789</updated>
+    </task>
+    <task id="LOCAL-00009" summary="transpose of same size matrix, that is transpose of square matrx">
+      <created>1709881056536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709881056536</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +200,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="First program created" />
-    <option name="LAST_COMMIT_MESSAGE" value="First program created" />
+    <MESSAGE value="How to take input in java" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="Create program to add two number. number taken from input's" />
+    <MESSAGE value="Calculate simple Interest Rate" />
+    <MESSAGE value="Max of 2D Array after taking input" />
+    <MESSAGE value="Print 2D array in wave form" />
+    <MESSAGE value="transpose of same size matrix, that is transpose of square matrx" />
+    <option name="LAST_COMMIT_MESSAGE" value="transpose of same size matrix, that is transpose of square matrx" />
   </component>
 </project>
