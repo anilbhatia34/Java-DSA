@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Given 2D Array A[][] and Row index B, return max of Bth row.">
-      <change afterPath="$PROJECT_DIR$/src/Array_Example/waveMetrixArrayColum.java" afterDir="false" />
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Write a program to input an integer N and a N*N matrix Mat from user and print the matrix in wave form (column wise)&#10;Input 1:&#10;&#10;3&#10;4 1 2 &#10;7 4 4 &#10;3 7 4&#10;Output 1:&#10;&#10;4 7 3 7 4 1 2 4 4">
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/IdenticalMetrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.waveMetrixArrayColum">
+  <component name="RunManager" selected="Application.IdenticalMetrix">
+    <configuration name="IdenticalMetrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.IdenticalMetrix" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LowerCaseAndUpperCaseCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Example.LowerCaseAndUpperCaseCount" />
       <module name="FirstJavaProgram" />
@@ -81,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceOccurenceOfB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Example.ReplaceOccurenceOfB" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String_Example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="waveMetrixArrayColum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_Example.waveMetrixArrayColum" />
       <module name="FirstJavaProgram" />
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdenticalMetrix" />
         <item itemvalue="Application.waveMetrixArrayColum" />
         <item itemvalue="Application.MaxOfBthRow" />
         <item itemvalue="Application.MinOf2dArray" />
         <item itemvalue="Application.LowerCaseAndUpperCaseCount" />
-        <item itemvalue="Application.ReplaceOccurenceOfB" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710074372503</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Write a program to input an integer N and a N*N matrix Mat from user and print the matrix in wave form (column wise)&#10;Input 1:&#10;&#10;3&#10;4 1 2 &#10;7 4 4 &#10;3 7 4&#10;Output 1:&#10;&#10;4 7 3 7 4 1 2 4 4">
+      <created>1710077149842</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710077149843</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +319,7 @@
     <MESSAGE value="Vowel and Consonant count" />
     <MESSAGE value="find min element in user entered N, M size Array. i.e 2D Array" />
     <MESSAGE value="Given 2D Array A[][] and Row index B, return max of Bth row." />
-    <option name="LAST_COMMIT_MESSAGE" value="Given 2D Array A[][] and Row index B, return max of Bth row." />
+    <MESSAGE value="Write a program to input an integer N and a N*N matrix Mat from user and print the matrix in wave form (column wise)&#10;Input 1:&#10;&#10;3&#10;4 1 2 &#10;7 4 4 &#10;3 7 4&#10;Output 1:&#10;&#10;4 7 3 7 4 1 2 4 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Write a program to input an integer N and a N*N matrix Mat from user and print the matrix in wave form (column wise)&#10;Input 1:&#10;&#10;3&#10;4 1 2 &#10;7 4 4 &#10;3 7 4&#10;Output 1:&#10;&#10;4 7 3 7 4 1 2 4 4" />
   </component>
 </project>
