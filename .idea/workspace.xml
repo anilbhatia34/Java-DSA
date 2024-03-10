@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="find min element in user entered N, M size Array. i.e 2D Array">
       <change afterPath="$PROJECT_DIR$/src/Array_Example/FindSecondMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Example/MinOf2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/MaxOfBthRow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +41,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MinOf2dArray">
-    <configuration name="FindLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.FindLargestElement" />
+  <component name="RunManager" selected="Application.MaxOfBthRow">
+    <configuration name="LowerCaseAndUpperCaseCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Example.LowerCaseAndUpperCaseCount" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
+          <option name="PATTERN" value="String_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowerCaseAndUpperCaseCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Example.LowerCaseAndUpperCaseCount" />
+    <configuration name="MaxOfBthRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.MaxOfBthRow" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String_Example.*" />
+          <option name="PATTERN" value="Array_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxOfBthRow" />
         <item itemvalue="Application.MinOf2dArray" />
         <item itemvalue="Application.LowerCaseAndUpperCaseCount" />
         <item itemvalue="Application.ReplaceOccurenceOfB" />
         <item itemvalue="Application.MaxStringCount" />
-        <item itemvalue="Application.FindLargestElement" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +245,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710061521275</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="find min element in user entered N, M size Array. i.e 2D Array">
+      <created>1710072944780</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710072944780</updated>
+    </task>
+    <task id="LOCAL-00019" summary="find min element in user entered N, M size Array. i.e 2D Array">
+      <created>1710072953597</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710072953597</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
