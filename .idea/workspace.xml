@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Count Upper and lower count in a given string">
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="find min element in user entered N, M size Array. i.e 2D Array">
       <change afterPath="$PROJECT_DIR$/src/Array_Example/FindSecondMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Example/VowelAndConsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/MinOf2dArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LowerCaseAndUpperCaseCount">
+  <component name="RunManager" selected="Application.MinOf2dArray">
     <configuration name="FindLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_Example.FindLargestElement" />
       <module name="FirstJavaProgram" />
@@ -81,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinOf2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.MinOf2dArray" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReplaceOccurenceOfB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Example.ReplaceOccurenceOfB" />
       <module name="FirstJavaProgram" />
@@ -94,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMetrixBy90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.RotateMetrixBy90" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinOf2dArray" />
         <item itemvalue="Application.LowerCaseAndUpperCaseCount" />
         <item itemvalue="Application.ReplaceOccurenceOfB" />
         <item itemvalue="Application.MaxStringCount" />
         <item itemvalue="Application.FindLargestElement" />
-        <item itemvalue="Application.RotateMetrixBy90" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710055126444</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Vowel and Consonant count">
+      <created>1710061521275</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710061521275</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,6 +275,8 @@
     <MESSAGE value="Find Max String length" />
     <MESSAGE value=": find largest&#10;: ReplaceOccurenceOfB" />
     <MESSAGE value="Count Upper and lower count in a given string" />
-    <option name="LAST_COMMIT_MESSAGE" value="Count Upper and lower count in a given string" />
+    <MESSAGE value="Vowel and Consonant count" />
+    <MESSAGE value="find min element in user entered N, M size Array. i.e 2D Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="find min element in user entered N, M size Array. i.e 2D Array" />
   </component>
 </project>
