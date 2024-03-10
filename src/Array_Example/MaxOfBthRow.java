@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MaxOfBthRow {
     public static int solve(int[][] A, int B) {
         int M = A[0].length;
-        int max = Integer.MIN_VALUE;;
+        int max = Integer.MIN_VALUE;
 
         for(int j=0; j< M; j++){
             if(A[B][j] > max){
@@ -14,8 +14,6 @@ public class MaxOfBthRow {
         }
         return max;
     }
-
-
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
         int N = scn.nextInt();
