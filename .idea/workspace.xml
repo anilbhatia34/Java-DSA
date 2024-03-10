@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment=": find largest&#10;: ReplaceOccurenceOfB">
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Count Upper and lower count in a given string">
       <change afterPath="$PROJECT_DIR$/src/Array_Example/FindSecondMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Example/ReplaceOccurenceOfB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Example/VowelAndConsCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array_Example/FindLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Example/FindLargestElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +41,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReplaceOccurenceOfB">
+  <component name="RunManager" selected="Application.LowerCaseAndUpperCaseCount">
     <configuration name="FindLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_Example.FindLargestElement" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LowerCaseAndUpperCaseCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Example.LowerCaseAndUpperCaseCount" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RevereMetricsRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.RevereMetricsRow" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RotateMetrixBy90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array_Example.RotateMetrixBy90" />
       <module name="FirstJavaProgram" />
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LowerCaseAndUpperCaseCount" />
         <item itemvalue="Application.ReplaceOccurenceOfB" />
         <item itemvalue="Application.MaxStringCount" />
         <item itemvalue="Application.FindLargestElement" />
         <item itemvalue="Application.RotateMetrixBy90" />
-        <item itemvalue="Application.RevereMetricsRow" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709990680916</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=": find largest&#10;: ReplaceOccurenceOfB">
+      <created>1710054033677</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710054033677</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Count Upper and lower count in a given string">
+      <created>1710055126444</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710055126444</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +267,7 @@
     <MESSAGE value="Find Largest element in an input  Array A" />
     <MESSAGE value="Find Max String length" />
     <MESSAGE value=": find largest&#10;: ReplaceOccurenceOfB" />
-    <option name="LAST_COMMIT_MESSAGE" value=": find largest&#10;: ReplaceOccurenceOfB" />
+    <MESSAGE value="Count Upper and lower count in a given string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Count Upper and lower count in a given string" />
   </component>
 </project>
