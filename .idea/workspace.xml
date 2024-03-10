@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Given 2D Array A[][] and Row index B, return max of Bth row.">
-      <change beforePath="$PROJECT_DIR$/src/Array_Example/MaxOfBthRow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Example/MaxOfBthRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Example/waveMetrixArrayColum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array_Example/WaveMetrixArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxOfBthRow">
+  <component name="RunManager" selected="Application.waveMetrixArrayColum">
     <configuration name="LowerCaseAndUpperCaseCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Example.LowerCaseAndUpperCaseCount" />
       <module name="FirstJavaProgram" />
@@ -59,19 +61,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array_Example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxStringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Example.MaxStringCount" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="waveMetrixArrayColum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_Example.waveMetrixArrayColum" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array_Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.waveMetrixArrayColum" />
         <item itemvalue="Application.MaxOfBthRow" />
         <item itemvalue="Application.MinOf2dArray" />
         <item itemvalue="Application.LowerCaseAndUpperCaseCount" />
         <item itemvalue="Application.ReplaceOccurenceOfB" />
-        <item itemvalue="Application.MaxStringCount" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710074306176</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Given 2D Array A[][] and Row index B, return max of Bth row.">
+      <created>1710074372503</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710074372503</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
