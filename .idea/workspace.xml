@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="You are given a N X N square integer matrix A. You have to tell whether A is an identity matrix or not.&#10;&#10;Identity matrix is a special square matrix whose main diagonal elements are equal to 1 and all other elements are 0.">
-      <change afterPath="$PROJECT_DIR$/src/Array_Example/EveryColumnSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/CountFactors.java" afterDir="false" />
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/PrimeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountFactors">
+  <component name="RunManager" selected="Application.PrimeCheck">
     <configuration name="CountFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.CountFactors" />
       <module name="FirstJavaProgram" />
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfBthRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.MaxOfBthRow" />
+    <configuration name="PrimeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.PrimeCheck" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
+          <option name="PATTERN" value="ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeCheck" />
         <item itemvalue="Application.CountFactors" />
         <item itemvalue="Application.EveryColumnSum" />
         <item itemvalue="Application.IdenticalMetrix" />
         <item itemvalue="Application.waveMetrixArrayColum" />
-        <item itemvalue="Application.MaxOfBthRow" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710090324607</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="EveryColumnSum">
+      <created>1710138374338</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710138374338</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6">
+      <created>1710138402102</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1710138402102</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +342,8 @@
     <MESSAGE value="Given 2D Array A[][] and Row index B, return max of Bth row." />
     <MESSAGE value="Write a program to input an integer N and a N*N matrix Mat from user and print the matrix in wave form (column wise)&#10;Input 1:&#10;&#10;3&#10;4 1 2 &#10;7 4 4 &#10;3 7 4&#10;Output 1:&#10;&#10;4 7 3 7 4 1 2 4 4" />
     <MESSAGE value="You are given a N X N square integer matrix A. You have to tell whether A is an identity matrix or not.&#10;&#10;Identity matrix is a special square matrix whose main diagonal elements are equal to 1 and all other elements are 0." />
-    <option name="LAST_COMMIT_MESSAGE" value="You are given a N X N square integer matrix A. You have to tell whether A is an identity matrix or not.&#10;&#10;Identity matrix is a special square matrix whose main diagonal elements are equal to 1 and all other elements are 0." />
+    <MESSAGE value="EveryColumnSum" />
+    <MESSAGE value="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6" />
   </component>
 </project>
