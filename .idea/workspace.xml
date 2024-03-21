@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Given a number n. check prime or not">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/PrimeCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/countAGPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/countAGPairOptimised.java" afterDir="false" />
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Print subArray in Range ,">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/subarrayinrange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countAGPairOptimised">
-    <configuration name="CountFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.CountFactors" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProblemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.subarrayinrange">
     <configuration name="PrimeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.PrimeCheck" />
       <module name="FirstJavaProgram" />
@@ -108,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="subarrayinrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.subarrayinrange" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.subarrayinrange" />
         <item itemvalue="Application.countAGPairOptimised" />
         <item itemvalue="Application.countAGPair" />
         <item itemvalue="Application.PrimeCount" />
         <item itemvalue="Application.PrimeCheck" />
-        <item itemvalue="Application.CountFactors" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710139519333</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Prime count&#10;AG pair brute force and Optimised version">
+      <created>1711004311683</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1711004311683</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +359,8 @@
     <MESSAGE value="EveryColumnSum" />
     <MESSAGE value="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6" />
     <MESSAGE value="Given a number n. check prime or not" />
-    <option name="LAST_COMMIT_MESSAGE" value="Given a number n. check prime or not" />
+    <MESSAGE value="Prime count&#10;AG pair brute force and Optimised version" />
+    <MESSAGE value="Print subArray in Range ," />
+    <option name="LAST_COMMIT_MESSAGE" value="Print subArray in Range ," />
   </component>
 </project>
