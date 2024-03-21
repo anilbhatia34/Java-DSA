@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/PrimeCheck.java" afterDir="false" />
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Given a number n. check prime or not">
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/PrimeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/countAGPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/countAGPairOptimised.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,39 +42,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeCheck">
+  <component name="RunManager" selected="Application.countAGPairOptimised">
     <configuration name="CountFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.CountFactors" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ProblemSolving.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EveryColumnSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.EveryColumnSum" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IdenticalMetrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.IdenticalMetrix" />
-      <module name="FirstJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +69,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="waveMetrixArrayColum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array_Example.waveMetrixArrayColum" />
+    <configuration name="PrimeCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.PrimeCount" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array_Example.*" />
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countAGPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.countAGPair" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countAGPairOptimised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.countAGPairOptimised" />
+      <module name="FirstJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countAGPairOptimised" />
+        <item itemvalue="Application.countAGPair" />
+        <item itemvalue="Application.PrimeCount" />
         <item itemvalue="Application.PrimeCheck" />
         <item itemvalue="Application.CountFactors" />
-        <item itemvalue="Application.EveryColumnSum" />
-        <item itemvalue="Application.IdenticalMetrix" />
-        <item itemvalue="Application.waveMetrixArrayColum" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710138402102</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Given a number n. check prime or not">
+      <created>1710139519333</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1710139519333</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +353,7 @@
     <MESSAGE value="You are given a N X N square integer matrix A. You have to tell whether A is an identity matrix or not.&#10;&#10;Identity matrix is a special square matrix whose main diagonal elements are equal to 1 and all other elements are 0." />
     <MESSAGE value="EveryColumnSum" />
     <MESSAGE value="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Given an integer A, you need to find the count of it's factors.&#10;&#10;Factor of a number is the number which divides it perfectly leaving no remainder.&#10;&#10;Example : 1, 2, 3, 6 are factors of 6" />
+    <MESSAGE value="Given a number n. check prime or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="Given a number n. check prime or not" />
   </component>
 </project>
