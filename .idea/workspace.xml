@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Prefix sum">
+    <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Sufix sum">
       <change afterPath="$PROJECT_DIR$/src/ProblemSolving/sufixSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.prefixSum">
+  <component name="RunManager" selected="Application.sufixSum">
     <configuration name="buySellOneStockBestApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.buySellOneStockBestApproach" />
       <module name="FirstJavaProgram" />
@@ -108,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prefixSum" />
         <item itemvalue="Application.sufixSum" />
+        <item itemvalue="Application.prefixSum" />
         <item itemvalue="Application.buySellOneStockBestApproach" />
         <item itemvalue="Application.smallestSubArrayMinMaxElement" />
         <item itemvalue="Application.subArrayAll" />
@@ -356,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711115569567</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Sufix sum">
+      <created>1711116200863</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1711116200863</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +378,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create program to add two number. number taken from input's" />
     <MESSAGE value="Calculate simple Interest Rate" />
     <MESSAGE value="Max of 2D Array after taking input" />
     <MESSAGE value="Print 2D array in wave form" />
@@ -396,6 +402,7 @@
     <MESSAGE value="Smallest subAraay in range of min and max element" />
     <MESSAGE value="Buy And Sell One Stock and find max profit" />
     <MESSAGE value="Prefix sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prefix sum" />
+    <MESSAGE value="Sufix sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sufix sum" />
   </component>
 </project>
