@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e093646-fd5e-4172-9cb3-817eedacbbd8" name="Changes" comment="Buy And Sell One Stock and find max profit">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/buySellOneStockBestApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProblemSolving/prefixSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.buySellOneStockBestApproach">
+  <component name="RunManager" selected="Application.prefixSum">
     <configuration name="buySellOneStockBestApproach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProblemSolving.buySellOneStockBestApproach" />
       <module name="FirstJavaProgram" />
@@ -54,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countAGPairOptimised" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProblemSolving.countAGPairOptimised" />
+    <configuration name="prefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.prefixSum" />
       <module name="FirstJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prefixSum" />
         <item itemvalue="Application.buySellOneStockBestApproach" />
         <item itemvalue="Application.smallestSubArrayMinMaxElement" />
         <item itemvalue="Application.subArrayAll" />
         <item itemvalue="Application.subarrayinrange" />
-        <item itemvalue="Application.countAGPairOptimised" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711098551339</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Buy And Sell One Stock and find max profit">
+      <created>1711098619915</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1711098619915</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
